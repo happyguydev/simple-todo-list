@@ -1,0 +1,7 @@
+export const ADD_CATEGORY = 'ADD_CATEGORY';
+export const DELETE_CATEGORY = 'DELETE_CATEGORY';
+export const CLEAR_CATEGORY = 'CLEAR_CATEGORY';
+export const ADD_ITEM = 'ADD_ITEM';
+export const DELETE_ITEM = 'DELETE_ITEM';
+export const DELETE_CATEGORY_ITEM = 'DELETE_CATEGORY_ITEM';
+export const CLEAR_ITEM = 'CLEAR_ITEM';
